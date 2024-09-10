@@ -1639,7 +1639,7 @@ input[type=checkbox] {
  bottom:0;
  right:0px;
  position:fixed;
- width:50%;
+ width:100%;
  background:#4e3403;
         padding: 7px 0 7px 10px;
 }
